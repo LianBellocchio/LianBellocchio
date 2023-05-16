@@ -1,5 +1,5 @@
-# 💫 About Me:
-🔭 Programming Technician (FullStack Dev)<br>👯 I’m looking to collaborate on Globant!<br>🌱 I’m currently learning React & Flask<br>💬 Ask me about League of legends<br>⚡ Fun fact: Programming is the only discipline where an error can be seen as an achievement, as each discovered error is one step closer to a successful solution.
+# 🌙 About Me:
+🔭 Programming Technician (FullStack Dev)<br>👯 I’m looking to collaborate on Globant!<br>🌱 I’m currently learning ML<br>💬 Ask me about League of legends<br>⚡ Fun fact: Programming is the only discipline where an error can be seen as an achievement, as each discovered error is one step closer to a successful solution.
 
 
 ## 🌐 Socials:

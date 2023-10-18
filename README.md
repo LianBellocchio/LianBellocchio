@@ -1,5 +1,9 @@
 # 🌙 About Me:
-🔭 Programming Technician (FullStack Dev)<br>👯 I’m looking to collaborate on Globant!<br>🌱 I’m currently learning ML<br>💬 Ask me about League of legends<br>⚡ Fun fact: Programming is the only discipline where an error can be seen as an achievement, as each discovered error is one step closer to a successful solution.
+🔭 Programming Technician (FullStack Dev)
+👯 I'm looking to collaborate on open source projects, contribute to existing codebases, and learn from other developers. I'm also interested in collaborating on projects that involve marketing, graphic design, AI, and reverse engineering.
+🌱 I'm currently learning about new programming languages and frameworks, as well as new AI techniques.
+💬 Ask me about anything related to programming, marketing, graphic design, AI, or reverse engineering. I'm always happy to share my knowledge and help others learn.
+⚡ Fun fact: Programming is the only discipline where an error can be seen as an achievement, as each discovered error is one step closer to a successful solution.
 
 
 ## 🌐 Socials:
